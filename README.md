@@ -55,7 +55,7 @@ The script has heuristics for implementation purposes.
 ## Author
 TOUATI Alaa Eddine NHSAT-Algiers, Math. & CS (2025/2026)
 
-##LICENCE
+## LICENCE
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
